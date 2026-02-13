@@ -42,4 +42,6 @@ These projects highlight the following key technical skills:
 **About the Vets in Tech Python Course**
 
 These projects were completed as assignments in the Vets in Tech Python course, where participants learn practical programming and data handling skills for real-world applications. You can find more information about the course and other learning opportunities here:
-🔗 https://vetsintech.co/events-education
+🔗 https://vetsintech.co/events-education 
+
+=)
